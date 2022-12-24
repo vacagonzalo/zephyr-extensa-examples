@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "xtensa",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/gonzalo/zephyrproject/zephyr/include/**",
+                "/home/gonzalo/zephyrproject/zephyr/kernel/include/**"
+            ],
+            "defines": [],
+            "compilerPath": "/home/gonzalo/zephyr-sdk-0.15.2/xtensa-espressif_esp32s2_zephyr-elf/bin/xtensa-espressif_esp32s2_zephyr-elf-gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
