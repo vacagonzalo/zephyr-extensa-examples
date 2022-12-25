@@ -1,8 +1,7 @@
 {
     "cmake.configureOnOpen": true,
     "files.associations": {
-        "*.spr": "json",
-        "*.overlay": "dts"
+        "*.spr": "json"
     },
     "cSpell.words": [
         "devicetree",
